@@ -62,7 +62,7 @@ jspm_packages
 .DS_Store
 
 #Excluding build directory
-public/
+# public/
 
 .DS_STORE
 node_modules
