@@ -1,6 +1,6 @@
 # MERN Dating App
 
-Welcome to our MERN Dating App! This application is designed to provide a seamless and interactive dating experience using the MERN stack - MongoDB, Express.js, React.js, and Node.js. Users can connect, chat, and discover potential matches through this platform.
+Welcome to the MERN Dating App! This application is designed to provide a seamless and interactive dating experience using the MERN stack - MongoDB, Express.js, React.js, and Node.js on Heroku. Users can connect, chat, and discover potential matches through this platform.
 
 ## Features
 
